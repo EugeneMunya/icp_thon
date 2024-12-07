@@ -1,4 +1,5 @@
-DICOMchain an application which decentralize medical images and allows quick access and collaboration between hosipitals and clinics
+DICOMchain an application which decentralize medical images and allows quick access and collaboration between hosipitals and clinics.
+
 To run this application locally you must follow this steps
 
  - install the following in your machine

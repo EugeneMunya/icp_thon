@@ -15,4 +15,4 @@ To run this application locally you must follow this steps
 
 - in terminal run  dfx start --background
 - run again dfx deploy
-- open new terminal and cd in the src folder and run python dicom_process.py and follow the instractions
+- open new terminal and cd in the src folder and run python 'dicom_process.py' and follow the instractions

@@ -5,6 +5,7 @@ To run this application locally you must follow this steps
  - install the following in your machine
    https://demergent-labs.github.io/kybra/installation.html
 - install pydicom package
+- install numpy package
 - git clone this repo
 - cd into the root folder
 - create and source a virtual environment by running

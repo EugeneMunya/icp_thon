@@ -1,0 +1,8 @@
+{
+    "canisters": {
+        "dicom_chain": {
+            "type": "kybra",
+            "main": "src/main.py"
+        }
+    }
+}

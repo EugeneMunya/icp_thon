@@ -7,8 +7,8 @@ To run this application locally you must follow this steps
 - git clone this repo
 - cd into the root folder
 - create and source a virtual environment by running
-   ~/.pyenv/versions/3.10.7/bin/python -m venv venv
-   source venv/bin/activate
+-  ~/.pyenv/versions/3.10.7/bin/python -m venv venv
+-   source venv/bin/activate
 - install Kybra and the Kybra dfx extension by running
    pip install kybra
    python -m kybra install-dfx-extension

@@ -4,7 +4,7 @@ To run this application locally you must follow this steps
 
  - install the following in your machine
    https://demergent-labs.github.io/kybra/installation.html
-- git colne this repo
+- git clone this repo
 - cd into the root folder
 - create and source a virtual environment by running
    ~/.pyenv/versions/3.10.7/bin/python -m venv venv
